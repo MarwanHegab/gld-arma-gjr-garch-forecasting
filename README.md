@@ -1,6 +1,6 @@
 # Forecasting GLD Using an ARMA-GJR-GARCH Model
 
-Team project for Math 456 (Mathematical Modeling). We model the daily price
+We model the daily price
 behavior of GLD (SPDR Gold Shares) using an ARMA-GJR-GARCH time-series model,
 capturing volatility clustering and asymmetric shocks in daily returns.
 
